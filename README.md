@@ -1,5 +1,5 @@
 # PSP-Python
-Coding problems and respective programs from my college's moodle for the course Problem Solving and Programming Using Python.
+Coding problems and respective programs from my college's moodle for the course Problem Solving and Programming Using Python (Course code - GE19211, 2019R regulation, Rajalakshmi Engineering College).
 
 The topics covered are organised as follows:
 
