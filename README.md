@@ -2,7 +2,7 @@
 Coding problems and respective programs from my college's moodle for the course Problem Solving and Programming Using Python (Course code - GE19211, 2019R regulation, Rajalakshmi Engineering College).
 
 
-The code is organized into 24 experiments which can be devided into two segments:
+The code is organized into 24 experiments which can be divided into two segments:
 
 (i) Data cleaning, visualization and analysis - Experiments 1 to 13
 
